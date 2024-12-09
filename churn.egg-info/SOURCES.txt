@@ -1,0 +1,11 @@
+README.md
+setup.py
+churn/__init__.py
+churn/logger.py
+churn/model.py
+churn/parsing.py
+churn/utils.py
+churn.egg-info/PKG-INFO
+churn.egg-info/SOURCES.txt
+churn.egg-info/dependency_links.txt
+churn.egg-info/top_level.txt

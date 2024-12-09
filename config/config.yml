@@ -1,0 +1,23 @@
+model_dtype_treatment:
+
+  numeric:
+  - "tenure"
+  - "monthlycharges"
+  - "satisfactory_onboarding_form"
+
+  categorical: 
+  - "seniorcitizen"
+  - "partner"
+  - "dependents"
+  - "busines_loan"
+  - "creditline"
+  - "online_banking"
+  - "mortgage"
+  - "stocks"
+  - "forex"
+  - "contract"
+  - "paperlessbilling"
+  - "paymentmethod"
+  
+  response:
+  - churn_within_a_month
